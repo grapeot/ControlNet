@@ -1,0 +1,6 @@
+open_clip_torch
+einops
+gradio
+pytorch-lightning
+omegaconf
+basicsr
